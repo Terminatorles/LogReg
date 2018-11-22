@@ -1,0 +1,2 @@
+bootstrap.css into public>>stylesheet>>bootstap.css
+bootstap.js into public>>javascripts>>bootstap.js

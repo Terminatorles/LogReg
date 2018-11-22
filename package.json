@@ -1,0 +1,28 @@
+{
+  "name":"Lesedi Mokou",
+  "version":"0.0.1",
+  "private": true,
+  "scripts":{
+    "start": "node ./bin/www"
+  },
+  "dependencies":{
+    "body-parser:":"",
+    "cookie-parser":"",
+    "debug":"",
+    "express": "",
+    "jade": "",
+    "morgan": "",
+    "serve-favicon": "",
+    "mongodb": "",
+    "mongoose": "",
+    "connect-flash": "",
+    "express-messages": "",
+    "express-validator": "",
+    "passport":"" ,
+    "passport-local": "",
+    "passport-http":"",
+    "multer":"",
+    "express-session":"",
+    "bcryptjs":""
+   }
+}
